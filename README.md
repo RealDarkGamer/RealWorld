@@ -1,2 +1,2 @@
-# RealWorld
-Adds in real world items to the game
+# BiomesPlus - Minecraft
+More Biomes and Items!
